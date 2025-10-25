@@ -30,8 +30,8 @@ distance = sqrt((lat2 - lat1)^2 + (lon2 - lon1)^2)
 ## Usage
 
 ```bash
-cd Bellman-Ford
-python bellman_ford.py
+cd Bellman-Ford-Algo
+python bellmanFord.py
 ```
 
 ## Example Output
