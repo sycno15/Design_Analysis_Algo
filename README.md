@@ -11,7 +11,7 @@ Design_Analysis_Algo/
 ├── Longest-Repeating-Subsequence/
 │   └── longestRepeatingSubsequence.py
 ├── Bellman-Ford-Algo/
-│   └── bellman_ford.py
+│   └── bellmanFord.py
 ├── Optimal-Binary-Search-Tree/
 │   └── optimanBinarySearchTree.py
 └── README.md
