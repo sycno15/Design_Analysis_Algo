@@ -46,17 +46,3 @@ python longestRepeatingSubsequence.py
 
 * **Time Complexity:** O(n^2), where n is the length of the string.
 * **Space Complexity:** O(n^2) for the cost and direction matrices.
-
-## Contributing
-
-Contributions are welcome! You can:
-
-* Improve existing implementations
-* Add related algorithms
-* Fix bugs or optimize code
-
-Please fork the repository, create a branch for your changes, and submit a pull request.
-
-## License
-
-This project is licensed under the MIT License.
