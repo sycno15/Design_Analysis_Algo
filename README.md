@@ -13,7 +13,7 @@ Design_Analysis_Algo/
 ├── Bellman-Ford-Algo/
 │   └── bellmanFord.py
 ├── Optimal-Binary-Search-Tree/
-│   └── optimanBinarySearchTree.py
+│   └── optimalBinarySearchTree.py
 └── README.md
 ```
 
