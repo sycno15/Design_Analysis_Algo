@@ -46,17 +46,3 @@ python longestCommonSubsequende.py
 
 * **Time Complexity:** O(m*n), where m and n are the lengths of the two strings.
 * **Space Complexity:** O(m*n) for the cost and direction matrices.
-
-## Contributing
-
-Contributions are welcome! You can:
-
-* Improve existing implementations
-* Add related algorithms
-* Fix bugs or optimize code
-
-Please fork the repository, create a branch for your changes, and submit a pull request.
-
-## License
-
-This project is licensed under the MIT License.
